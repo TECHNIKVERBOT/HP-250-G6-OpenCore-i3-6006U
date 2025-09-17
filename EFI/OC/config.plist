@@ -1503,7 +1503,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 -wegnoegpu igfxonln=1 -igfxsklaskbl igfxrpsc=1 alcid=3 no_compat_check</string>
+				<string>-v keepsyms=1 debug=0x100 -wegnoegpu igfxonln=1 -igfxsklaskbl igfxrpsc=1 alcid=3 -no_compat_check</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>run-efi-updater</key>
